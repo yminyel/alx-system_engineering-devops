@@ -1,2 +1,2 @@
 #!/bin/bash
-find /alx-system_engineering-devops/0x01 -type d -exec chmod o+x
+find -type d -exec chmod o+x
