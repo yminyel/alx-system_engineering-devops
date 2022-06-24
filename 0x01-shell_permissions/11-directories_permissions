@@ -1,2 +1,2 @@
 #!/bin/bash
-find /root -type d -exec chmod a+x {}
+chmod -R o+X directory
