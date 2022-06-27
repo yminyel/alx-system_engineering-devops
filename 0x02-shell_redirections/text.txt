@@ -1,6 +1,7 @@
 hello
 root
-root 
+rat 
 hello
 yes
+nice
 nice
