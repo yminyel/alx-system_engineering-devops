@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "BEST=School \nBEST=School"
+export best="School"
