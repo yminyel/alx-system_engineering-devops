@@ -1,2 +1,2 @@
 #!/bin/bash
-
+echo BASH=/usr/bin/bash\n BASHOPTS=checkwinsize:cmdhist:complete_fullquote:extquote:force_fignore:globasciiranges:hostcomplete:interactive_comments:progcomp:promptvars:sourcepath
