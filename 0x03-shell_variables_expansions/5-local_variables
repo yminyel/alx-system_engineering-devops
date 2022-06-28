@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "BASH=/usr/bin/bash\n BASHOPTS=checkwinsize:cmdhist:complete_fullquote:extquote:force_fignore:globasciiranges:hostcomplete:interactive_comments:progcomp:promptvars:sourcepath"
+printf "BASH=/usr/bin/bash\nBASHOPTS=checkwinsize:cmdhist:complete_fullquote:extquote:force_fignore:globasciiranges:hostcomplete:interactive_comments:progcomp:promptvars:sourcepath"
